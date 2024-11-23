@@ -1,1 +1,2 @@
-# lab6
+#lab6
+class Fourier: DFT, IDFT, FFT, IFFT, amplitude, phase
